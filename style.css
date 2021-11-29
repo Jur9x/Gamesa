@@ -1,0 +1,42 @@
+.policka {
+    min-height: 100px;
+    min-width: 100px;
+    max-height: 100px;
+    max-width: 100px;
+    background-color: red;
+    color: aqua;
+    border: black solid 2px;
+    padding: 1%;
+}
+
+#pole {
+    margin: 2%;
+}
+
+#batn3 {
+    border: black 2px solid;
+    background-color: greenyellow;
+    padding: 1%;
+    margin: 1%;
+}
+
+#batn5 {
+    border: black 2px solid;
+    background-color: greenyellow;
+    padding: 1%;
+    margin: 1%;
+}
+
+#batn7 {
+    border: black 2px solid;
+    background-color: greenyellow;
+    padding: 1%;
+    margin: 1%;
+}
+
+#batn9 {
+    border: black 2px solid;
+    background-color: greenyellow;
+    padding: 1%;
+    margin: 1%;
+}
